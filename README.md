@@ -99,3 +99,44 @@ _As a user, I want to update my personal information and manage my list of favor
 ---
 
 > _Built as part of the Full-Stack Web Development Immersion Program Achievement 3._
+
+## 📚 Documentation
+
+- Inline code comments
+- Detailed user stories and acceptance criteria in README
+- Responsive UI using Bootstrap and custom SCSS
+
+---
+
+## 🌐 Hosting
+
+This project is deployed online using platforms such as **Netlify** or **GitHub Pages**. Accessible on any modern browser.
+
+---
+
+## 🏁 Getting Started
+
+To run this app locally:
+
+1. Clone the repo  
+   `git clone https://github.com/Milakrei55/CFMyflix.git`
+2. Navigate to the project folder  
+   `cd CFMyflix`
+3. Install dependencies  
+   `npm install`
+4. Run the app  
+   `npm start`
+
+Visit `http://localhost:1234/` to explore the app locally.
+
+---
+
+## ✍️ Author
+
+Developed by Michaela (Milakrei55) as part of the Full-Stack Immersion Achievement 3.
+
+---
+
+## 🛑 Hard Rules
+
+- Project is for educational and portfolio use only
